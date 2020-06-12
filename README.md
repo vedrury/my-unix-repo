@@ -1,30 +1,27 @@
-# This is a large heading
+# Day 1
+## breakfast
 
-## This is a smaller heading
+-toast
+-tea
+-apple
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## dinner
 
-- This is
-- an unordered
-- list
+-pasta
+-wine
+-**ice cream**
 
-1. This is
-2. an ordered
-3. list
+# Day 2
+## breakfast
 
-Here is `some code` in the middle of a sentence.
+-pancakes with *syrup*
+-coffee
 
-```
-This is
-a block
-of code
-```
+## lunch
+-**Caesar** salad with *ranch*
 
-Here is how you make [a link](https://www.wikipedia.org/).
+## snack
+-***POPCORN***
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
-nano README.md
+go [here](https://gmail.com)

@@ -1,27 +1,27 @@
 # Day 1
 ## breakfast
 
--toast
--tea
--apple
+- toast
+- tea
+- apple
 
 ## dinner
 
--pasta
--wine
--**ice cream**
+- pasta
+- wine
+- **ice cream**
 
 # Day 2
 ## breakfast
 
--pancakes with *syrup*
--coffee
+- pancakes with *syrup*
+- coffee
 
 ## lunch
--**Caesar** salad with *ranch*
+- **Caesar** salad with *ranch*
 
 ## snack
--***POPCORN***
+- ***POPCORN***
 
 
 go [here](https://gmail.com)

@@ -1,27 +1,3 @@
-# Day 1
-## breakfast
-
-- toast
-- tea
-- apple
-
-## dinner
-
-- pasta
-- wine
-- **ice cream**
-
-# Day 2
-## breakfast
-
-- pancakes with *syrup*
-- coffee
-
-## lunch
-- **Caesar** salad with *ranch*
-
-## snack
-- ***POPCORN***
-
-
-go [here](https://gmail.com)
+** Unix Workbench Week 4 Peer Assignment **
+This makefile was created on Tue Jun 16 15:16:17 PDT 2020.
+The  program contains 25 lines of code.

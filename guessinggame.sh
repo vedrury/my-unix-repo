@@ -1,6 +1,11 @@
+function guessinggame.sh {
+
+
 files=$(ls | wc -l)
 
+
 echo "Welcome to the Guessing Game! Guess how many files are in the current directory."
+
 
 read response
 
@@ -23,3 +28,6 @@ if [[ $response -eq $files ]]
         then
         echo "Congratulations! That is the correct number of files. :)"
 fi
+}
+guessinggame.sh
+

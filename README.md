@@ -1,3 +1,3 @@
 # **Unix Workbench Week 4 Peer Assignment**  
-The makefile for this project was created on Tue Jun 16 15:39:20 PDT 2020.  
-The guessinggame.sh program contains 25 lines of code.
+The makefile for this project was created on Tue Jun 16 17:22:40 PDT 2020.  
+The guessinggame.sh program contains 33 lines of code.
